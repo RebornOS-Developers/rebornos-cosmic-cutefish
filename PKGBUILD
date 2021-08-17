@@ -8,6 +8,8 @@ pkgdesc='Cosmic package for RebornOS cutefish'
 url='https://github.com/RebornOS-Developers/rebornos-cosmic-cutefish'
 arch=('any')
 license=('GPL3')
-depends=('cutefish-calculator' 'cutefish-core' 'cutefish-dock' 'cutefish-filemanager' 'cutefish-icons' 'cutefish-kwin-plugins' 'cutefish-launcher' 'cutefish-qt-plugins'
-'cutefish-settings' 'cutefish-statusbar' 'cutefish-wallpapers' 'konsole' 'kate' 'dragon' 'plasma-systemmonitor'
+depends=('cutefish-calculator' 'cutefish-core' 'cutefish-dock' 
+'cutefish-filemanager' 'cutefish-icons' 'cutefish-kwin-plugins'
+'cutefish-launcher' 'cutefish-qt-plugins' 'cutefish-settings' 'cutefish-statusbar'
+'cutefish-wallpapers' 'konsole' 'kate' 'dragon' 'plasma-systemmonitor'
 )
